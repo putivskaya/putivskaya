@@ -16,5 +16,5 @@
 - [Checklists in Miro](https://miro.com/app/board/uXjVPPZAvjc=/?share_link_id=234904683289)
 - [Bug Reports](https://docs.google.com/document/d/1NPGnstbowIKWlGUNSNChueUCVzW03VV2ECuU__dXpwo/edit?usp=sharing)
 
-### Follow Me
+### Contact Me
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=249cd7)](https://t.me/jaijen)
