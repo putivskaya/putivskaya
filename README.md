@@ -17,4 +17,4 @@
 - [Bug Reports](https://docs.google.com/document/d/1NPGnstbowIKWlGUNSNChueUCVzW03VV2ECuU__dXpwo/edit?usp=sharing)
 
 ### Contact Me
-[![Telegram](https://img.shields.io/badge/-telegram-b9babe?style=for-the-badge&logo=telegram&logoColor=249cd7)](https://t.me/jaijen)
+[![Telegram](https://img.shields.io/badge/-telegram-e5e5e5?style=for-the-badge&logo=telegram&logoColor=249cd7)](https://t.me/jaijen)
