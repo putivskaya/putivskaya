@@ -16,3 +16,4 @@
 ![Checklists in Miro](https://miro.com/app/board/uXjVPPZAvjc=/?share_link_id=234904683289)
 
 ### Follow Me
+[![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor=249cd7)](https://t.me/jaijen)
