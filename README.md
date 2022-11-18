@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-## I am a junior QA Engineer
+### I am a junior QA Engineer
 
 Tools
 
