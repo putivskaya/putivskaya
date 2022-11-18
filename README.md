@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I am a junior QA Engineer
+### I am a QA Engineer
 
 ### Tools
 ![Postman](https://img.shields.io/badge/-Postman-e5e5e5?style=for-the-badge&logo=postman&logoColor=f26938)
