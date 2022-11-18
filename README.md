@@ -7,6 +7,7 @@
 
 ![Charles](https://img.shields.io/badge/-charles-090909?style=for-the-badge&logo=charles&logoColor=badcef)
 
+![MetaBase](https://img.shields.io/badge/-metabase-090909?style=for-the-badge&logo=metabase&logoColor=badcef)
 
 Testing Documentation
 
