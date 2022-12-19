@@ -10,6 +10,7 @@
 ![Jira](https://img.shields.io/badge/-jira-e5e5e5?style=for-the-badge&logo=jira&logoColor=2480f7)
 ![GitHub](https://img.shields.io/badge/-github-e5e5e5?style=for-the-badge&logo=github&logoColor=24292f)
 ![Cypress](https://img.shields.io/badge/-cypress-e5e5e5?style=for-the-badge&logo=cypress&logoColor=00c8aa)
+![JMeter](https://img.shields.io/badge/-jmeter-e5e5e5?style=for-the-badge&logo=jmeter&logoColor=d22028)
 
 ### Testing Documentation
 
