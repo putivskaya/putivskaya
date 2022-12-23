@@ -21,4 +21,4 @@
 
 ### Contact Me
 [![Telegram](https://img.shields.io/badge/-telegram-e5e5e5?style=for-the-badge&logo=telegram&logoColor=249cd7)](https://t.me/jaijen)
-[![Gmail](https://img.shields.io/badge/-Gmail-e5e5e5?style=for-the-badge&logo=gmail&logoColor=4385f4v)](s.putivskaya@gmail.ru)
+[![Gmail](https://img.shields.io/badge/-Gmail-e5e5e5?style=for-the-badge&logo=gmail&logoColor=4385f4v)](mailto:s.putivskaya@gmail.ru)
